@@ -1,6 +1,6 @@
 # 🏬 Store‑Rating Web App
 
-[Live Demo](https://storerating.netlify.app))
+[Live Demo](https://storerating.netlify.app)
 
 A full‑stack **React + Firebase** application that lets users rate stores while admins manage users, stores, and ratings from a dedicated dashboard.
 
