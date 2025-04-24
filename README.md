@@ -25,6 +25,17 @@ A full‑stack **React + Firebase** application that lets users rate stores whil
 - **Lucide‑React** icons
 - **Vite** build tool
 
+## 🚀 Quick Start
 
+```bash
+# 1. Clone
+git clone https://github.com/Hrishikeshkukade/Store-Rating.git
+cd Store-Rating
+
+# 2. Install
+npm install  # or pnpm i
+
+# 3. Dev server
+npm run dev
 
 
